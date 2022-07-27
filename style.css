@@ -3,3 +3,10 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+@media screen and (max-width:576px) {
+    .carousel-item img {
+        height: 450px;
+    }
+
+}
