@@ -9,4 +9,13 @@ body {
         height: 450px;
     }
 
+    .small-device img {
+        width: 335px;
+        height: 224px;
+    }
+
+
+
 }
+
+@media screen and (min-width:576px) and(max-width:992px) {}
